@@ -29,10 +29,6 @@
   <a href="#-français">🇫🇷 Français</a> · <a href="#-english">🇬🇧 English</a>
 </p>
 
-<p align="center">
-  <img src="./assets/univers-banner.png" width="100%" alt="Univers Immersive Studio">
-</p>
-
 ---
 
 # 🇫🇷 Français
