@@ -138,7 +138,7 @@ Je travaille notamment sur :
 - l'infrastructure serveur ;
 - la conception et l'évolution globale du projet.
 
-> **Crédit web :** le site officiel **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** est principalement développé par **Hugo Bertin**. Je dirige le projet, définis ses besoins, ses systèmes et son évolution, mais je ne présente pas le développement du site lui-même comme mon travail personnel.
+> **Crédit web :** le site officiel **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** est principalement développé par **Hugo Bertin**. Je dirige le projet, définis ses besoins, ses systèmes et son évolution.
 
 ---
 
@@ -457,7 +457,7 @@ My work includes:
 - server infrastructure;
 - overall project design and evolution.
 
-> **Web credit:** the official **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** website is primarily developed by **Hugo Bertin**. I lead the project and define its systems, requirements and evolution, but I do not present the website development itself as my own work.
+> **Web credit:** the official **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** website is primarily developed by **Hugo Bertin**. I lead the project and define its systems, requirements and evolution.
 
 ---
 
