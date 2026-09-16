@@ -26,7 +26,8 @@
 </p>
 
 <p align="center">
-  <a href="#-français">🇫🇷 Français</a> · <a href="#-english">🇬🇧 English</a>
+  <a href="#-français">🇫🇷 Français</a> ·
+  <a href="#-english">🇬🇧 English</a>
 </p>
 
 ---
@@ -35,17 +36,17 @@
 
 ## 👋 À propos
 
-Je suis **chef de projet et développeur chez Immersive Studio**, un studio centré sur la création d'expériences Minecraft, d'univers RP et d'outils techniques qui les accompagnent.
+Je suis **chef de projet & développeur chez Immersive Studio**, un studio consacré à la création d'expériences Minecraft, d'univers roleplay et des systèmes techniques qui leur donnent vie.
 
-Je **co-dirige Immersive Studio avec Hugo Bertin**. Mon travail se concentre notamment sur la direction des projets, la conception des systèmes, le développement Minecraft, les launchers, les outils Discord, l'infrastructure, les tests et la mise en production.
+Je travaille sur la **direction des projets**, la conception fonctionnelle, le développement Minecraft, les launchers, les plateformes web, les systèmes Discord, les infrastructures, les tests et la mise en production.
 
-> Je ne me contente pas d'imaginer des univers : je construis les systèmes qui permettent de les vivre.
+Je conçois et développe également le **site officiel d'Immersive Studio**, qui centralise nos différents univers et projets.
 
-> **Crédit web :** le site officiel **Immersive Studio** est principalement développé par **Hugo Bertin**. Je participe à sa direction produit, à la définition des projets et à la coordination du studio, mais je ne présente pas son développement web comme mon travail personnel.
+> **Je ne me contente pas d'imaginer des univers : je construis les systèmes qui permettent de les vivre.**
 
 ---
 
-## 🌌 Immersive Studio
+# 🌌 Immersive Studio
 
 <p align="center">
   <a href="https://immersive-studio.fr/">
@@ -53,56 +54,61 @@ Je **co-dirige Immersive Studio avec Hugo Bertin**. Mon travail se concentre not
   </a>
 </p>
 
-**Immersive Studio** est le projet central autour duquel nous réunissons plusieurs expériences Minecraft et RP.
+**Immersive Studio** est le projet central réunissant nos différentes créations Minecraft et RP.
 
-### Les univers
+Nous développons des univers inspirés de licences que nous apprécions, avec l'objectif de créer des expériences immersives pour leurs communautés.
+
+### 🌍 Nos univers
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/heritage-de-poudlard.jpg" width="100%" alt="L'Héritage de Poudlard"><br>
-      <strong>L’Héritage de Poudlard</strong><br>
+      <img src="./assets/heritage-de-poudlard.jpg" width="100%" alt="L'Héritage de Poudlard">
+      <br><strong>L’Héritage de Poudlard</strong><br>
       <sub>Minecraft · Roleplay · Magie</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/percy-jackson.jpg" width="100%" alt="Percy Jackson RP"><br>
-      <strong>Percy Jackson RP</strong><br>
+      <img src="./assets/percy-jackson.jpg" width="100%" alt="Percy Jackson RP">
+      <br><strong>Percy Jackson RP</strong><br>
       <sub>Minecraft · Mythologie · Aventure</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/teen-wolf.jpg" width="100%" alt="Teen Wolf RP"><br>
-      <strong>Teen Wolf RP</strong><br>
+      <img src="./assets/teen-wolf.jpg" width="100%" alt="Teen Wolf RP">
+      <br><strong>Teen Wolf RP</strong><br>
       <sub>Minecraft · Surnaturel · Mystère</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/avatar-quatre-nations.jpg" width="100%" alt="Avatar — Les Quatre Nations"><br>
-      <strong>Avatar — Les Quatre Nations</strong><br>
+      <img src="./assets/avatar-quatre-nations.jpg" width="100%" alt="Avatar — Les Quatre Nations">
+      <br><strong>Avatar — Les Quatre Nations</strong><br>
       <sub>Minecraft · Éléments · Exploration</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/avengers.jpg" width="100%" alt="Avengers RP"><br>
-      <strong>Avengers RP</strong><br>
+      <img src="./assets/avengers.jpg" width="100%" alt="Avengers RP">
+      <br><strong>Avengers RP</strong><br>
       <sub>Minecraft · Héros · Action</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/the-last-of-us.jpg" width="100%" alt="The Last of Us RP"><br>
-      <strong>The Last of Us RP</strong><br>
+      <img src="./assets/the-last-of-us.jpg" width="100%" alt="The Last of Us RP">
+      <br><strong>The Last of Us RP</strong><br>
       <sub>Minecraft · Survie · Liens humains</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/licaris.jpg" width="100%" alt="Licaris"><br>
-      <strong>Licaris</strong><br>
+      <img src="./assets/licaris.jpg" width="100%" alt="Licaris">
+      <br><strong>Licaris</strong><br>
       <sub>Minecraft · Cobblemon · Pokémon</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/newgen.jpg" width="100%" alt="Newgen"><br>
-      <strong>Newgen</strong><br>
+      <img src="./assets/newgen.jpg" width="100%" alt="Newgen">
+      <br><strong>Newgen</strong><br>
       <sub>Minecraft · Mini-jeux</sub>
     </td>
   </tr>
@@ -110,97 +116,238 @@ Je **co-dirige Immersive Studio avec Hugo Bertin**. Mon travail se concentre not
 
 ---
 
-## 🧩 Ce que je construis
+# 🚀 Mes principaux projets
 
-- Mods **Minecraft Java** sur plusieurs modloaders
-- Plugins, outils serveur et systèmes de gameplay personnalisés
-- Launchers Windows et chaînes de mise à jour
-- Modpacks, datapacks et resource packs
-- Systèmes Discord, Activities, bots et intégrations
-- Applications desktop et interfaces de gestion
-- API, services backend et bases de données
-- Infrastructure Linux, Docker et services auto-hébergés
-- Modèles Blockbench, contenus 3D, textures et éléments de gameplay
-- Cahiers des charges, tests, releases et coordination technique
+## 🪄 L’Héritage de Poudlard
 
----
+Un écosystème Minecraft RP francophone mêlant monde personnalisé, systèmes de gameplay, lore, modpack, launcher, Discord et infrastructure dédiée.
 
-## 🖥️ Réalisations techniques
+### Mon rôle
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/heritage-launcher.jpg" width="100%" alt="Héritage Launcher"><br>
-      <strong>Héritage Launcher</strong><br>
-      <sub>Launcher Windows · Modpack · Accès joueurs/staff · Mises à jour</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/licaris-launcher.jpg" width="100%" alt="Licaris Launcher"><br>
-      <strong>Licaris Launcher</strong><br>
-      <sub>Cobblemon · Mods clients · Shaders · Skins · Auto-update</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/familier-fantastique.jpg" width="100%" alt="Familier Fantastique"><br>
-      <strong>Familier Fantastique</strong><br>
-      <sub>Discord · Progression · Exploration · Inventaire · Événements</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/baguettes-en-boutique.gif" width="100%" alt="Créations Minecraft"><br>
-      <strong>Contenus Minecraft</strong><br>
-      <sub>Baguettes · Modèles · Objets · Gameplay · Direction visuelle</sub>
-    </td>
-  </tr>
-</table>
+`Créateur` · `Project Lead` · `Minecraft Development` · `Game Design` · `Infrastructure` · `Technical Direction`
+
+Je travaille notamment sur :
+
+- les systèmes de gameplay ;
+- les mods et mécaniques Minecraft ;
+- le launcher ;
+- le modpack ;
+- les systèmes de sorts et baguettes ;
+- les familiers et contenus personnalisés ;
+- les outils staff ;
+- l'infrastructure serveur ;
+- la conception et l'évolution globale du projet.
+
+> **Crédit web :** le site officiel **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** est principalement développé par **Hugo Bertin**. Je dirige le projet, définis ses besoins, ses systèmes et son évolution, mais je ne présente pas le développement du site lui-même comme mon travail personnel.
 
 ---
 
-## 🚀 Projets principaux
+## 🖥️ Héritage Launcher
 
-| Projet | Ce que c'est | Mon rôle |
-|---|---|---|
-| **Immersive Studio** | Studio réunissant plusieurs expériences Minecraft et RP. | Co-direction, direction produit, conception des projets, coordination et développement technique. |
-| **L’Héritage de Poudlard** | Écosystème Minecraft RP avec systèmes de jeu, launcher, modpack, Discord et infrastructure dédiée. | Créateur / Project Lead, conception des systèmes, développement Minecraft, outils, infrastructure et releases. |
-| **Héritage Launcher** | Launcher Windows dédié au projet L’Héritage de Poudlard. | Conception, développement, tests, maintenance et diffusion. |
-| **Licaris** | Expérience Cobblemon accompagnée de son launcher et de son modpack. | Développement du launcher, intégration modpack, tests, publication et maintenance. |
-| **Familier Fantastique** | Jeu de familiers intégré à Discord. | Concept, systèmes de gameplay, direction produit, infrastructure et coordination technique. |
+<p align="center">
+  <img src="./assets/heritage-launcher.jpg" width="100%" alt="Héritage Launcher">
+</p>
 
----
+Launcher Windows dédié à **L’Héritage de Poudlard**.
 
-## 🛠️ Technologies & outils
+### Fonctionnalités
 
-### Minecraft, Java & systèmes de jeu
+`Microsoft Authentication` · `Minecraft Java` · `Modpack Management` · `Auto Update` · `Skins` · `Shaders` · `Staff Tools`
 
-`Java` · `Minecraft Java Edition` · `Gradle` · `Fabric` · `Forge` · `NeoForge` · `Quilt` · `Mixins`
-
-`Paper` · `Spigot` · `Bukkit` · `Minecraft Modding` · `Plugin Development`
-
-`Custom Launchers` · `Modpacks` · `Datapacks` · `Resource Packs`
-
-### Création & worldbuilding
-
-`Blockbench` · `Axiom` · `WorldEdit` · `Custom Models` · `Textures` · `Gameplay Systems`
-
-### Web & applications
-
-`TypeScript` · `JavaScript` · `React` · `Vite` · `Node.js` · `Express` · `Fastify` · `Electron`
-
-### Données & infrastructure
-
-`PostgreSQL` · `Prisma` · `REST APIs` · `Docker` · `Linux` · `Caddy` · `Vercel`
-
-### Intégrations & workflow
-
-`Discord API / OAuth` · `Microsoft / Minecraft Authentication` · `Git` · `GitHub` · `GitHub Releases` · `Python`
+- préparation et lancement de Minecraft ;
+- gestion du modpack ;
+- contrôle et réparation des fichiers ;
+- gestion des skins ;
+- outils staff ;
+- demandes d'accès ;
+- mises à jour automatiques ;
+- intégration avec l'écosystème du serveur.
 
 ---
 
-## 🌐 Liens
+## 🔵 Licaris Launcher
+
+<p align="center">
+  <img src="./assets/licaris-launcher.jpg" width="100%" alt="Licaris Launcher">
+</p>
+
+Launcher desktop conçu pour une expérience **Cobblemon**.
+
+### Fonctionnalités
+
+`Electron` · `TypeScript` · `Minecraft` · `Fabric` · `Microsoft Auth` · `Shaders` · `Skins`
+
+- installation et préparation automatique ;
+- gestion des mods clients ;
+- vérification des dépendances ;
+- choix des shaders ;
+- gestion et aperçu des skins ;
+- personnalisation de l'expérience ;
+- mises à jour automatiques ;
+- publication du modpack.
+
+---
+
+## 🐉 Familier Fantastique
+
+<p align="center">
+  <img src="./assets/familier-fantastique.jpg" width="100%" alt="Familier Fantastique">
+</p>
+
+Une expérience de jeu directement intégrée à Discord autour de la collection et de la progression de créatures fantastiques.
+
+### Systèmes
+
+`Discord Activity` · `PostgreSQL` · `Prisma` · `Docker` · `Game Systems`
+
+- familiers multiples ;
+- niveaux et expérience ;
+- énergie ;
+- affection ;
+- exploration ;
+- inventaire ;
+- objets passifs ;
+- événements ;
+- succès ;
+- classement ;
+- boutique ;
+- progression persistante.
+
+---
+
+# ✨ Minecraft Creations
+
+Mods, objets, systèmes de gameplay, modèles 3D et contenus personnalisés font également partie de mon travail sur Minecraft.
+
+<p align="center">
+  <img src="./assets/baguettes-en-boutique.gif" width="100%" alt="Minecraft Creations">
+</p>
+
+<p align="center">
+  <strong>Baguettes · Modèles · Entités · Objets · Gameplay · Direction visuelle</strong>
+</p>
+
+Je travaille notamment sur :
+
+- baguettes personnalisées ;
+- créatures et familiers ;
+- modèles Blockbench ;
+- entités personnalisées ;
+- systèmes de sorts ;
+- interfaces ;
+- éléments de gameplay ;
+- assets et contenus Minecraft ;
+- intégration de modèles et textures.
+
+---
+
+# 🧩 Ce que je développe
+
+- Mods **Minecraft Java**
+- Plugins Minecraft
+- Systèmes de gameplay
+- Launchers personnalisés
+- Modpacks
+- Datapacks
+- Resource Packs
+- Applications desktop
+- Plateformes web
+- Bots et systèmes Discord
+- Discord Activities
+- API REST
+- Bases de données
+- Infrastructure Linux
+- Services Docker
+- Panels d'administration
+- Intégrations Microsoft / Minecraft
+- Modèles Blockbench
+- Outils serveur
+
+---
+
+# 🛠️ Technologies & outils
+
+## ⛏️ Minecraft & Java
+
+`Java` · `Minecraft Java Edition` · `Gradle`
+
+`Fabric` · `Forge` · `NeoForge` · `Quilt`
+
+`Mixins` · `Minecraft Modding`
+
+`Paper` · `Spigot` · `Bukkit`
+
+`Plugin Development`
+
+`Modpacks` · `Datapacks` · `Resource Packs`
+
+---
+
+## 🧱 Création & gameplay
+
+`Blockbench` · `Axiom` · `WorldEdit`
+
+`Custom Models` · `Textures`
+
+`Gameplay Systems` · `Server Tools`
+
+---
+
+## 🌐 Web & applications
+
+`TypeScript` · `JavaScript`
+
+`React` · `Vite`
+
+`Node.js` · `Express` · `Fastify`
+
+`Electron`
+
+---
+
+## 🗄️ Données & infrastructure
+
+`PostgreSQL` · `Prisma`
+
+`REST APIs`
+
+`Docker`
+
+`Linux`
+
+`Caddy`
+
+`Vercel`
+
+---
+
+## 🔗 Intégrations & workflow
+
+`Discord API`
+
+`Discord OAuth`
+
+`Microsoft Authentication`
+
+`Minecraft Authentication`
+
+`Git`
+
+`GitHub`
+
+`GitHub Releases`
+
+`Python`
+
+`Auto-update Systems`
+
+---
+
+# 🌐 Liens
 
 - 🌍 **Immersive Studio :** [immersive-studio.fr](https://immersive-studio.fr/)
 - 🪄 **L’Héritage de Poudlard :** [heritagedepoudlard.fr](https://heritagedepoudlard.fr/)
-- 💻 **Organisation GitHub :** [Immersive-Studio-Corporation](https://github.com/Immersive-Studio-Corporation)
+- 💻 **GitHub :** [Immersive-Studio-Corporation](https://github.com/Immersive-Studio-Corporation)
 
 ---
 
@@ -208,17 +355,17 @@ Je **co-dirige Immersive Studio avec Hugo Bertin**. Mon travail se concentre not
 
 ## 👋 About me
 
-I am a **Project Lead & Developer at Immersive Studio**, a studio focused on Minecraft experiences, roleplay universes and the technical systems supporting them.
+I am a **Project Lead & Developer at Immersive Studio**, a studio focused on creating Minecraft experiences, roleplay universes and the technical systems that bring them to life.
 
-I **co-lead Immersive Studio with Hugo Bertin**. My work focuses on project direction, systems design, Minecraft development, launchers, Discord tools, infrastructure, testing and releases.
+My work covers **project direction**, functional design, Minecraft development, launchers, web platforms, Discord systems, infrastructure, testing and deployment.
 
-> I do not just imagine universes — I build the systems that make them playable.
+I also design and develop the official **Immersive Studio website**, which brings together our different universes and projects.
 
-> **Web credit:** the official **Immersive Studio** website is primarily developed by **Hugo Bertin**. I contribute to product direction, project definition and studio coordination, but I do not present his web development work as my own.
+> **I do not just imagine universes — I build the systems that make them playable.**
 
 ---
 
-## 🌌 Immersive Studio
+# 🌌 Immersive Studio
 
 <p align="center">
   <a href="https://immersive-studio.fr/">
@@ -226,56 +373,61 @@ I **co-lead Immersive Studio with Hugo Bertin**. My work focuses on project dire
   </a>
 </p>
 
-**Immersive Studio** is the central project bringing together our Minecraft and roleplay experiences.
+**Immersive Studio** is the central project bringing together our Minecraft and roleplay creations.
 
-### Universes
+We develop universes inspired by franchises we enjoy, with the goal of creating immersive experiences for their communities.
+
+### 🌍 Our universes
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/heritage-de-poudlard.jpg" width="100%" alt="L'Héritage de Poudlard"><br>
-      <strong>L’Héritage de Poudlard</strong><br>
+      <img src="./assets/heritage-de-poudlard.jpg" width="100%" alt="L'Héritage de Poudlard">
+      <br><strong>L’Héritage de Poudlard</strong><br>
       <sub>Minecraft · Roleplay · Magic</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/percy-jackson.jpg" width="100%" alt="Percy Jackson RP"><br>
-      <strong>Percy Jackson RP</strong><br>
+      <img src="./assets/percy-jackson.jpg" width="100%" alt="Percy Jackson RP">
+      <br><strong>Percy Jackson RP</strong><br>
       <sub>Minecraft · Mythology · Adventure</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/teen-wolf.jpg" width="100%" alt="Teen Wolf RP"><br>
-      <strong>Teen Wolf RP</strong><br>
+      <img src="./assets/teen-wolf.jpg" width="100%" alt="Teen Wolf RP">
+      <br><strong>Teen Wolf RP</strong><br>
       <sub>Minecraft · Supernatural · Mystery</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/avatar-quatre-nations.jpg" width="100%" alt="Avatar — Les Quatre Nations"><br>
-      <strong>Avatar — The Four Nations</strong><br>
+      <img src="./assets/avatar-quatre-nations.jpg" width="100%" alt="Avatar — The Four Nations">
+      <br><strong>Avatar — The Four Nations</strong><br>
       <sub>Minecraft · Elements · Exploration</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/avengers.jpg" width="100%" alt="Avengers RP"><br>
-      <strong>Avengers RP</strong><br>
+      <img src="./assets/avengers.jpg" width="100%" alt="Avengers RP">
+      <br><strong>Avengers RP</strong><br>
       <sub>Minecraft · Heroes · Action</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/the-last-of-us.jpg" width="100%" alt="The Last of Us RP"><br>
-      <strong>The Last of Us RP</strong><br>
+      <img src="./assets/the-last-of-us.jpg" width="100%" alt="The Last of Us RP">
+      <br><strong>The Last of Us RP</strong><br>
       <sub>Minecraft · Survival · Human connections</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/licaris.jpg" width="100%" alt="Licaris"><br>
-      <strong>Licaris</strong><br>
+      <img src="./assets/licaris.jpg" width="100%" alt="Licaris">
+      <br><strong>Licaris</strong><br>
       <sub>Minecraft · Cobblemon · Pokémon</sub>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/newgen.jpg" width="100%" alt="Newgen"><br>
-      <strong>Newgen</strong><br>
+      <img src="./assets/newgen.jpg" width="100%" alt="Newgen">
+      <br><strong>Newgen</strong><br>
       <sub>Minecraft · Minigames</sub>
     </td>
   </tr>
@@ -283,97 +435,165 @@ I **co-lead Immersive Studio with Hugo Bertin**. My work focuses on project dire
 
 ---
 
-## 🧩 What I build
+# 🚀 Main projects
 
-- **Minecraft Java** mods across multiple mod loaders
-- Plugins, server tools and custom gameplay systems
-- Windows launchers and update pipelines
-- Modpacks, datapacks and resource packs
-- Discord systems, Activities, bots and integrations
-- Desktop applications and management interfaces
-- APIs, backend services and databases
-- Linux infrastructure, Docker and self-hosted services
-- Blockbench models, 3D content, textures and gameplay assets
-- Specifications, testing, release workflows and technical coordination
+## 🪄 L’Héritage de Poudlard
 
----
+A French Minecraft RP ecosystem combining a custom world, gameplay systems, lore, modpack, launcher, Discord and dedicated infrastructure.
 
-## 🖥️ Technical work
+### My role
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/heritage-launcher.jpg" width="100%" alt="Héritage Launcher"><br>
-      <strong>Héritage Launcher</strong><br>
-      <sub>Windows launcher · Modpack · Player/staff access · Updates</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/licaris-launcher.jpg" width="100%" alt="Licaris Launcher"><br>
-      <strong>Licaris Launcher</strong><br>
-      <sub>Cobblemon · Client mods · Shaders · Skins · Auto-update</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/familier-fantastique.jpg" width="100%" alt="Familier Fantastique"><br>
-      <strong>Familier Fantastique</strong><br>
-      <sub>Discord · Progression · Exploration · Inventory · Events</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/baguettes-en-boutique.gif" width="100%" alt="Minecraft creations"><br>
-      <strong>Minecraft Content</strong><br>
-      <sub>Wands · Models · Items · Gameplay · Visual direction</sub>
-    </td>
-  </tr>
-</table>
+`Creator` · `Project Lead` · `Minecraft Development` · `Game Design` · `Infrastructure` · `Technical Direction`
+
+My work includes:
+
+- gameplay systems;
+- Minecraft mods and mechanics;
+- launcher development;
+- modpack management;
+- spells and wand systems;
+- companions and custom content;
+- staff tools;
+- server infrastructure;
+- overall project design and evolution.
+
+> **Web credit:** the official **[heritagedepoudlard.fr](https://heritagedepoudlard.fr/)** website is primarily developed by **Hugo Bertin**. I lead the project and define its systems, requirements and evolution, but I do not present the website development itself as my own work.
 
 ---
 
-## 🚀 Main projects
+## 🖥️ Héritage Launcher
 
-| Project | What it is | My role |
-|---|---|---|
-| **Immersive Studio** | Studio bringing together several Minecraft and roleplay experiences. | Co-leadership, product direction, project design, coordination and technical development. |
-| **L’Héritage de Poudlard** | Minecraft RP ecosystem with gameplay systems, launcher, modpack, Discord and dedicated infrastructure. | Creator / Project Lead, systems design, Minecraft development, tooling, infrastructure and releases. |
-| **Héritage Launcher** | Windows launcher dedicated to L’Héritage de Poudlard. | Design, development, testing, maintenance and delivery. |
-| **Licaris** | Cobblemon experience with its own launcher and modpack. | Launcher development, modpack integration, testing, publishing and maintenance. |
-| **Familier Fantastique** | Companion game integrated into Discord. | Concept, gameplay systems, product direction, infrastructure and technical coordination. |
+<p align="center">
+  <img src="./assets/heritage-launcher.jpg" width="100%" alt="Héritage Launcher">
+</p>
 
----
+Custom Windows launcher for **L’Héritage de Poudlard**.
 
-## 🛠️ Technologies & tools
-
-### Minecraft, Java & game systems
-
-`Java` · `Minecraft Java Edition` · `Gradle` · `Fabric` · `Forge` · `NeoForge` · `Quilt` · `Mixins`
-
-`Paper` · `Spigot` · `Bukkit` · `Minecraft Modding` · `Plugin Development`
-
-`Custom Launchers` · `Modpacks` · `Datapacks` · `Resource Packs`
-
-### Creation & worldbuilding
-
-`Blockbench` · `Axiom` · `WorldEdit` · `Custom Models` · `Textures` · `Gameplay Systems`
-
-### Web & applications
-
-`TypeScript` · `JavaScript` · `React` · `Vite` · `Node.js` · `Express` · `Fastify` · `Electron`
-
-### Data & infrastructure
-
-`PostgreSQL` · `Prisma` · `REST APIs` · `Docker` · `Linux` · `Caddy` · `Vercel`
-
-### Integrations & workflow
-
-`Discord API / OAuth` · `Microsoft / Minecraft Authentication` · `Git` · `GitHub` · `GitHub Releases` · `Python`
+`Microsoft Authentication` · `Minecraft Java` · `Modpack Management` · `Auto Update` · `Skins` · `Shaders` · `Staff Tools`
 
 ---
 
-## 🌐 Links
+## 🔵 Licaris Launcher
+
+<p align="center">
+  <img src="./assets/licaris-launcher.jpg" width="100%" alt="Licaris Launcher">
+</p>
+
+Desktop launcher built for a **Cobblemon** experience.
+
+`Electron` · `TypeScript` · `Minecraft` · `Fabric` · `Microsoft Auth` · `Shaders` · `Skins`
+
+---
+
+## 🐉 Familier Fantastique
+
+<p align="center">
+  <img src="./assets/familier-fantastique.jpg" width="100%" alt="Familier Fantastique">
+</p>
+
+A Discord-integrated companion game featuring exploration, progression, inventory systems, events and collectible creatures.
+
+`Discord Activity` · `PostgreSQL` · `Prisma` · `Docker` · `Game Systems`
+
+---
+
+# ✨ Minecraft Creations
+
+Custom Minecraft content is another major part of my work.
+
+<p align="center">
+  <img src="./assets/baguettes-en-boutique.gif" width="100%" alt="Minecraft Creations">
+</p>
+
+<p align="center">
+  <strong>Wands · Models · Entities · Items · Gameplay · Visual direction</strong>
+</p>
+
+---
+
+# 🧩 What I build
+
+- Minecraft Java mods
+- Minecraft plugins
+- Gameplay systems
+- Custom launchers
+- Modpacks
+- Datapacks
+- Resource packs
+- Desktop applications
+- Web platforms
+- Discord bots and systems
+- Discord Activities
+- REST APIs
+- Databases
+- Linux infrastructure
+- Docker services
+- Administration panels
+- Microsoft / Minecraft integrations
+- Blockbench models
+- Server tools
+
+---
+
+# 🛠️ Technologies & tools
+
+## ⛏️ Minecraft & Java
+
+`Java` · `Minecraft Java Edition` · `Gradle`
+
+`Fabric` · `Forge` · `NeoForge` · `Quilt`
+
+`Mixins` · `Minecraft Modding`
+
+`Paper` · `Spigot` · `Bukkit`
+
+`Plugin Development`
+
+`Modpacks` · `Datapacks` · `Resource Packs`
+
+### 🧱 Creation & gameplay
+
+`Blockbench` · `Axiom` · `WorldEdit`
+
+`Custom Models` · `Textures`
+
+`Gameplay Systems` · `Server Tools`
+
+### 🌐 Web & applications
+
+`TypeScript` · `JavaScript`
+
+`React` · `Vite`
+
+`Node.js` · `Express` · `Fastify`
+
+`Electron`
+
+### 🗄️ Data & infrastructure
+
+`PostgreSQL` · `Prisma`
+
+`REST APIs`
+
+`Docker` · `Linux` · `Caddy` · `Vercel`
+
+### 🔗 Integrations & workflow
+
+`Discord API / OAuth`
+
+`Microsoft / Minecraft Authentication`
+
+`Git` · `GitHub` · `GitHub Releases`
+
+`Python`
+
+---
+
+# 🌐 Links
 
 - 🌍 **Immersive Studio:** [immersive-studio.fr](https://immersive-studio.fr/)
 - 🪄 **L’Héritage de Poudlard:** [heritagedepoudlard.fr](https://heritagedepoudlard.fr/)
-- 💻 **GitHub Organization:** [Immersive-Studio-Corporation](https://github.com/Immersive-Studio-Corporation)
+- 💻 **GitHub:** [Immersive-Studio-Corporation](https://github.com/Immersive-Studio-Corporation)
 
 ---
 
